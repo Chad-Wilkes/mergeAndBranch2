@@ -5,3 +5,4 @@ Steak
 Smoothie
 Hot Dogs
 Bacon
+Clam Chowder
